@@ -7,8 +7,6 @@
 
 - 👨‍💻 This is [My Portfolio](https://rikkyagung.github.io/)
 
-- ⚡ Fun fact **ada**
-
 ### Connect with me:
 [![Linked][LinkedIn]][LinkedIn-Url]  
   
