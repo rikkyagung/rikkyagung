@@ -5,7 +5,7 @@
 
 - 🤝 I'm looking for help to collaborate on projects so that I can develop my problem-solving skills especially for the Frontend
 
-- 👨‍💻 This is [My Portfolio](https://rikkyagung.github.io/)
+- 👨‍💻 This is [My Portfolio](https://ran-agung.netlify.app/)
 
 ### Connect with me:
 [![Linked][LinkedIn]][LinkedIn-Url]  
